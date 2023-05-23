@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-Css grid is actually great for layouts and landing of a page, didn't realised that until now. Flexbox is great too but Css Grid feels easier to use in my own aspect.
+Css grid is actually great for layouts and landing of a page, didn't realised that until now. The code for creating a complex layout in Flexbox is more complex, dispersed and time-consuming, while that created with the Grid is much faster, tidier and simpler. Flexbox is great too but Css Grid feels easier to use in my own aspect.
 
 ### Continued development
 
